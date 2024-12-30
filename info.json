@@ -1,0 +1,10 @@
+{
+    "name": "aurora-biter-santa-hats",
+    "version": "1.0.0",
+    "title": "Biter Santa Hats",
+    "author": "Aurora",
+    "homepage": "https://github.com/Shadlock0133/biter-santa-hat",
+    "factorio_version": "2.0",
+    "dependencies": ["base"],
+    "description": "This mod adds santa hats to all biters. Original mod by Danniel1220 https://mods.factorio.com/mod/biter-santaHats"
+}
